@@ -1,0 +1,20 @@
+{
+  "name": "Darling's Calendar",
+  "short_name": "Calendar",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f8c1d1",
+  "icons": [
+    {
+      "src": "your-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "calendar.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
